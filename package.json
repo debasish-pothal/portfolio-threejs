@@ -12,10 +12,12 @@
   "author": "Debasish Pothal",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-glsl": "^2.9.3",
     "@parcel/transformer-sass": "^2.9.3",
     "parcel": "^2.9.3"
   },
   "dependencies": {
-    "gsap": "^3.12.2"
+    "gsap": "^3.12.2",
+    "three": "^0.156.0"
   }
 }
