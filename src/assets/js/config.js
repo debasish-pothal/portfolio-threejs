@@ -3,3 +3,4 @@ import "../styles/loader.scss";
 import "../styles/landing.scss";
 import "../styles/link.scss";
 import "../styles/skills.scss";
+import "../styles/contact.scss";
